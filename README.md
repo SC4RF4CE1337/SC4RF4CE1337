@@ -1,16 +1,19 @@
-## Hi there 👋
+# 10 · 03 · 2025
 
-<!--
-**SC4RF4CE1337/SC4RF4CE1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+           .--.      
+          |o_o |                                                                                
+          |:_/ |     
+         //   \ \    
+        (|     | )   
+       /'\_   _/`\   
+       \___)=(___/   
+      SC4RF4CE1337
+                                                        
+> "Say hello to my little friend..." — *Tony Montana*
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+Hey, I’m a digital operator and network strategist. I explore networks, cloud systems, and security scenarios — all **authorized and educational**.  
+I’m passionate about understanding how systems work and improving them safely.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ **Alias:** SC4RF4CE1337  
+- 🖥️ **Skills:** Network Engineering, NOC/SOC Operations, Cloud, Monitoring, Security Labs  
